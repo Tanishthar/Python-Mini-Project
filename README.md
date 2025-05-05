@@ -58,17 +58,7 @@ The project is divided into two main parts:
 
 - The frontend and backend can be run simultaneously
 - Frontend communicates with the backend via a REST API
-- In development mode, the frontend includes mock data for testing without the backend
 
 ## Deployment
 
-For production deployment:
-
-1. Build the frontend:
-   ```
-   npm run build
-   ```
-
-2. Configure Django for production in `settings.py`
-3. Set up a production web server (Gunicorn, uWSGI, etc.)
-4. Configure your database (PostgreSQL recommended for production)
+https://jocular-zuccutto-aa80cd.netlify.app/
